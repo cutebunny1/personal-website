@@ -59,11 +59,35 @@ a:hover{
 .img{
   margin-top: 10px;
 }
+#box {
+  border: 5px solid purple;
+  background-color: purple;
+  padding: 10px;
+  border-radius: 10px;
+}
 
+#navbar{
+  display: block;
+  padding-top: 20px;
+}
 
 /* #pic{
   margin-left: 18em; */
 
+.tablink{
+  background color: :#5555;
+  color: black;
+  font-family: "Times New Roman", Times, serif;
+  float: left;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  padding: 14px 16px;
+  font-size: 17px;
+  width: 25%;
+}
+
+.tablink
 
 #pic_h3{
 padding-top: 20px;}
